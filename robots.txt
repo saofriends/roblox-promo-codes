@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://roblox-promo-codes.herokuapp.com/host-https-progameguides.com/sitemap_index.xml
+Sitemap: https://roblox-promo-codes.herokuapp.com/sitemap.xml
